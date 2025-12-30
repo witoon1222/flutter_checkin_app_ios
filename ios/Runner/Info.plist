@@ -5,6 +5,10 @@
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>location</string>
+	</array>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 

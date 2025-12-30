@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "336602291695",
+    "project_id": "flutter-cmru-checkin-android",
+    "storage_bucket": "flutter-cmru-checkin-android.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336602291695:android:fc62584cedfaadfd6d2a1a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_checkin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NEmjUcmGsiV-u3o2Jo7OS2WBZj4GYlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336602291695:android:c1682e8890efef976d2a1a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_checkin_app_ios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4NEmjUcmGsiV-u3o2Jo7OS2WBZj4GYlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

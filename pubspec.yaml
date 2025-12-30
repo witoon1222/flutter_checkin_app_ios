@@ -40,7 +40,9 @@ dependencies:
   intl: ^0.20.2
   flutter_map: ^8.2.2
   latlong2: ^0.9.1
-  geolocator: ^14.0.2
+  geolocator: ^9.0.2
+
+  #firebase_core: ^4.3.0
   
   #firebase_core: ^4.3.0
 

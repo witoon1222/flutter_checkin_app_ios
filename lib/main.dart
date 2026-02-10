@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:http/http.dart' as http;
-import 'dart:convert';
 
 import './pages/app_bar.dart';
 import './pages/bottom_nav.dart';
@@ -9,7 +7,6 @@ import './widgets/info.dart';
 import './widgets/checkin.dart';
 import './widgets/history.dart';
 import './widgets/login.dart';
-import '../config.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
